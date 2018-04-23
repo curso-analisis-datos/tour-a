@@ -1,0 +1,53 @@
+paises:
+	Chile=1
+	USA=2
+	Inglaterra=3
+	Brasil=4
+	Holanda=5
+	Mexico=6
+	Francia=7
+	Colombia=8
+	Tailandia=9
+	Canada=10
+	Panama=11
+	Suiza=12
+	España=13
+	Italia=14
+	Argentina=15
+	Alemania=16
+	Australia=17
+	Costa Rica=18
+	Escocia=19
+	Uruguay=20
+	Netherlands=21
+	Irlanda=22
+	Bolivia=23
+	Venezuela=24
+	Ecuador=25
+	Paraguay=26
+	Corea del Sur=27
+	Portugal=28
+	Puerto Rico=29
+	Belgica=30
+	China=31
+	Japon=32
+	Marruecos=33
+	Ucrania=34
+	Rumania=35
+	Luxemburgo=36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
