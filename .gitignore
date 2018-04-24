@@ -1,3 +1,4 @@
 *.pyc
 *.vscode
 ve_*
+.Rproj.user
